@@ -17,7 +17,7 @@ This repository features **Python-based DSP projects** where I explored how to p
 | 📊 Real-Time Plotting | Visualize the frequency spectrum before and after equalization |
 | 🎵 Input/Output | Works with WAV files |
 | 🛠️ Filters Used | Band-pass, Low-pass, High-pass |
-| 🔗 Link | [View Project](./Audio_equalizer/) |
+| 🔗 Link | [View Project](./Audio_equilizer/) |
 
 ---
 
