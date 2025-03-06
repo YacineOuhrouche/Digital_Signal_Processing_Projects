@@ -29,7 +29,7 @@ The core noise cancellation algorithm:
 
 ## 📸 User Interface Preview 
 
-![Screenshot 2025-01-30 112838](https://github.com/user-attachments/assets/150ab0fd-fb4d-4417-aa56-ab8ea1b384ac)
+![Screenshot 2025-01-30 112838](https://github.com/user-attachments/assets/dfbd4cf5-4d85-4ed5-87d2-ec967572a92f)
 
 ## 🚀 Skills Demonstrated
 
@@ -38,6 +38,7 @@ The core noise cancellation algorithm:
 - 🎵 Audio manipulation with PyDub and SciPy
 
 ---
+
 
 
 ## 🌐 Applications
